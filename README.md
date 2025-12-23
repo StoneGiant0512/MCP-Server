@@ -1,4 +1,4 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/adityak74-mcp-scholarly-badge.png)](https://mseep.ai/app/adityak74-mcp-scholarly)
+
 
 # mcp-scholarly MCP server
 [![smithery badge](https://smithery.ai/badge/mcp-scholarly)](https://smithery.ai/server/mcp-scholarly)

@@ -48,6 +48,9 @@ async def handle_call_tool(
     Handle tool execution requests.
     Tools can modify server state and notify clients of changes.
     """
+    print("Here =>>>>>>>>>>>>>>>>>>>>>" + name)
+    print("Arguments =>>>>>>>>>>>>>>>>>>>>>" + str(arguments))
+    
     if name != "search-arxiv" and name != "search-google-scholar":
         raise ValueError(f"Unknown tool: {name}")
 
